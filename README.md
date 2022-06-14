@@ -1,0 +1,1 @@
+This is three.js training project from https://threejs-journey.com/lessons/17
